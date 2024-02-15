@@ -1,4 +1,4 @@
-<h1 align="center">Привет👋</h1>
+<h1 align="center">Привет, это Вы удачно зашли👋</h1>
 
 ###
 
@@ -24,16 +24,15 @@
 
 <h2 align="left">About me:</h2>
   <p>
-  <img align="right" width="300" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="Auto-trip-gif" />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f_200d_1f525/512.gif" alt="animated flaming heart emoji" width="32" height="32"> Занимаюсь веб-разработкой с 2023 года и сейчаc нахожусь в активном поиске работы Эмодзи 🔭 <br/><br/>
+  <img align="right" width="250" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="Auto-trip-gif" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f_200d_1f525/512.gif" alt="animated flaming heart emoji" width="32" height="32"> Занимаюсь веб-разработкой с 2023 года и сейчаc нахожусь в активном поиске работы 🔭. <br/><br/>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="animated square academic cap amoji" width="32" height="32"> В настоящее время работаю над проектом "Женщины в атомной отрасли" 📈.<br/><br/>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="animated globe emoji" width="32" height="32"> Люблю рыбалку, занимаюсь спортом 💪🏼.<br/><br/>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Рад сотрудничеству: vissar2016@gmail.com 📩.</strong><br/><br/>
 </p><br/><br/>
 
 ###
-## Working with:
-<br/><br/>
+## Tech stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
