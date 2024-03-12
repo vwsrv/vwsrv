@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### `> Hello World! Это Вы удачно зашли!👋`
+  ### `> Hello World!!👋`
   ### Меня зовут [Василий](https://github.com/vwsrv), я фронтенд-разработчик.
  
 </div>
@@ -8,13 +8,13 @@
 ###
 
 <div align="center">
-  <img height="400" width='100%' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U0OWw3bmdvOHF0dTcyd2hmaGxoYnZ2NDVubTNqMGkyMjhyeDQ5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTk9ZZvJbApGt3vy3C/giphy.gif"  />
+  <img height="400" width='100%' src="https://habrastorage.org/webt/pc/kl/kx/pcklkx93vt-uz0vgvco63wft12w.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href='' target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
+  <a href='#' target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
   <a href="https://discord.gg/NnGvETG2" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/></a>
   <a href="https://t.me/prayftorespect" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram-logo"/></a>
   <a href="mailto:vissar2016@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
@@ -23,13 +23,13 @@
 
 ###
 
-<h2 align="left">About me:</h2>
+<h2 align="left">Обо мне:</h2>
   <p>
   <img align="right" width="250" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="Auto-trip-gif" />
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f_200d_1f525/512.gif" alt="animated flaming heart emoji" width="32" height="32"> Занимаюсь веб-разработкой с 2023 года и сейчаc нахожусь в активном поиске работы 🔭. <br/><br/>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="animated square academic cap amoji" width="32" height="32"> В настоящее время работаю над проектом "Женщины в атомной отрасли" 📈.<br/><br/>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="animated globe emoji" width="32" height="32"> Люблю рыбалку, занимаюсь спортом 💪🏼.<br/><br/>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Рад сотрудничеству: vissar2016@gmail.com 📩.</strong><br/><br/>
+  - Занимаюсь веб-разработкой с 2023 года и сейчаc нахожусь в активном поиске работы 🔭. <br/><br/>
+  - Сейчас работаю над заказами от <a href='https://github.com/Studio-Yandex-Practicum/woman_nuclear_industry_front'>РосАтома 📈</a> и <a href='https://github.com/Studio-Yandex-Practicum/woman_nuclear_industry_front'>ООО "Техносети"</a>.<br/><br/>
+  - Люблю рыбалку, занимаюсь спортом 💪🏼.<br/><br/>
+  - Рад сотрудничеству: vissar2016@gmail.com 📩.</strong><br/><br/>
 </p><br/><br/>
 
 ###
