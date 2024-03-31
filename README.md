@@ -27,7 +27,7 @@
   <p>
   <img align="right" width="250" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="Auto-trip-gif" />
   - Занимаюсь веб-разработкой с 2023 года и сейчаc нахожусь в активном поиске работы 🔭. <br/><br/>
-  - Сейчас работаю над заказами от <a href='https://github.com/Studio-Yandex-Practicum/woman_nuclear_industry_front'>РосАтома 📈</a> и <a href='https://github.com/Studio-Yandex-Practicum/woman_nuclear_industry_front'>ООО "Техносети"</a>.<br/><br/>
+  - Сейчас работаю над заказами от <a href='https://github.com/Studio-Yandex-Practicum/woman_nuclear_industry_front'>РосАтома 📈</a> и <a href='https://github.com/vwsrv/ooo-technoseti'>ООО "Техносети"</a>.<br/><br/>
   - Люблю рыбалку, занимаюсь спортом 💪🏼.<br/><br/>
   - Рад сотрудничеству: vissar2016@gmail.com 📩.</strong><br/><br/>
 </p><br/><br/>
