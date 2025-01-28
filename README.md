@@ -1,7 +1,7 @@
 <div align="center">
   
-  ### `> Hello World!!👋`
-  ### Меня зовут [Василий](https://github.com/vwsrv), я фронтенд-разработчик.
+  ### `> Hello World`
+  ### [Vasiliy V.](https://github.com/vwsrv), frontend developer.
  
 </div>
 
@@ -23,13 +23,12 @@
 
 ###
 
-<h2 align="left">Обо мне:</h2>
+<h2 align="left">About:</h2>
   <p>
   <img align="right" width="250" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="Auto-trip-gif" />
-  - Занимаюсь веб-разработкой с 2023 года 🔭. <br/><br/>
-  - Сейчас работаю над заказами от <a href='https://github.com/Studio-Yandex-Practicum/woman_nuclear_industry_front'>РосАтома 📈</a> и <a href='https://github.com/vwsrv/ooo-technoseti'>ООО "Техносети"</a>.<br/><br/>
-  - Люблю рыбалку, занимаюсь спортом 💪🏼.<br/><br/>
-  - Рад сотрудничеству: vissar2016@gmail.com 📩.</strong><br/><br/>
+  - Doing web development since 2023. <br/><br/>
+  - Current projects: <a href='https://github.com/vwsrv/markt-frontend-project'>Marketplace</a><br/><br/>
+  - Let's cooperate: vissar2016@gmail.com.</strong><br/><br/>
 </p><br/><br/>
 
 ###
