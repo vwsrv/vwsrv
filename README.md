@@ -27,7 +27,7 @@
   <p>
   <img align="right" width="250" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="Auto-trip-gif" />
   - Doing web development since 2023. <br/><br/>
-  - Current projects: <a href='https://github.com/vwsrv/markt-frontend-project'>Marketplace</a>, <a href='https://github.com/vwsrv/ooo-technoseti'>OOO-Technoseti</a>.<br/><br/>
+  - Current projects: <a href='https://github.com/vwsrv/markt-frontend-project'>Marketplace</a>, <a href='https://github.com/vwsrv/ooo-technoseti'>OOO-Technoseti ✅</a>.<br/><br/>
   - Let's cooperate: vissar2016@gmail.com.</strong><br/><br/>
 </p><br/><br/>
 
