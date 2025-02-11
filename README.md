@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img height="400" width='100%' src="https://habrastorage.org/webt/pc/kl/kx/pcklkx93vt-uz0vgvco63wft12w.gif"  />
+  <img height="350" width='70%' src="https://media1.tenor.com/m/ApQcdrA0mywAAAAd/nope-nope.gif"  />
 </div>
 
 ###
