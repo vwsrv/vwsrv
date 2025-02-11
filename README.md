@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### `> Hello World`
+  ### `> Hello World! Это я тут обновляю HH и жду оффер.`
   ### [Vasiliy V.](https://github.com/vwsrv), frontend developer.
  
 </div>
@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img height="350" width='70%' src="https://media1.tenor.com/m/ApQcdrA0mywAAAAd/nope-nope.gif"  />
+  <img height="300" width='50%' src="https://media1.tenor.com/m/XWf4_KKbCP0AAAAd/гордон-смотрит-из-за-стола.gif"  />
 </div>
 
 ###
