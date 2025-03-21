@@ -1,14 +1,15 @@
 <div align="center">
   
-  ### `> Hello World! Это я тут обновляю HH и жду оффер.`
-  ### [Vasiliy V.](https://github.com/vwsrv), frontend developer.
+  ### `> Hello World!`
+  ### [Vasiliy V.](https://github.com/vwsrv), frontend developer
+  <img height="35" width='50%' src="https://www.codewars.com/users/vwsrv/badges/large"  />
  
 </div>
 
 ###
 
 <div align="center">
-  <img height="300" width='50%' src="https://media1.tenor.com/m/XWf4_KKbCP0AAAAd/гордон-смотрит-из-за-стола.gif"  />
+  <img height="250" width='50%' src="https://media1.tenor.com/m/XWf4_KKbCP0AAAAd/гордон-смотрит-из-за-стола.gif"  />
 </div>
 
 ###
@@ -23,12 +24,12 @@
 
 ###
 
-<h2 align="left">Готов сиять!</h2>
+<h2 align="left">About me:</h2>
   <p>
   <img align="right" width="250" src="https://media1.tenor.com/m/43GjRfhbGmQAAAAd/мага-сияй-лезгинка-мага.gif" alt="Auto-trip-gif" />
-  - Doing web development since 2023. <br/><br/>
-  - Current projects: <a href='https://github.com/vwsrv/markt-frontend-project'>Marketplace</a>, <a href='https://github.com/vwsrv/ooo-technoseti'>OOO-Technoseti ✅</a>.<br/><br/>
-  - Let's cooperate: vissar2016@gmail.com.</strong><br/><br/>
+  - Web-developer since 2022 <br/>
+  - Currently work at WB&RUSS company. React + TS dev. <br/>
+  - Let's cooperate: vissar2016@gmail.com.</strong><br/>
 </p><br/><br/>
 
 ###
