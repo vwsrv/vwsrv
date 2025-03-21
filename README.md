@@ -30,7 +30,7 @@
   - Web-developer since 2022 <br/>
   - Currently work at WB&RUSS company. React + TS dev. <br/>
   - Let's cooperate: vissar2016@gmail.com.</strong><br/>
-</p><br/><br/>
+</p><br/><br/><br/>
 
 ###
 ## Tech stack:
